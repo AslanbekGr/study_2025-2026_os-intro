@@ -1,6 +1,6 @@
 {
     "name": "git-extended",
-    "version": "1.0.0",
+    "version": "1.2.3",
     "description": "Git repo for educational purposes",
     "main": "index.js",
     "repository": "https://github.com/AslanbekGr/-git-extended.git",
